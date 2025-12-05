@@ -48,11 +48,19 @@ A `favicon.ico` file is linked in the `<head>`:
 
 ```html
 <link rel="icon" type="image/x-icon" href="./favicon.ico" />
+```
 
 ### ✔ Clear CV Structure The CV includes all required sections arranged in a
-logical easy-to-understand structure: - **Header** - **Skills** - **Education**
-- **Experience** This structure is intentionally semantic and ready for styling
-in future roadmap projects. ## 🙌 Credits This project follows the **Single-Page
-CV** challenge from Roadmap.sh: 👉
+
+logical easy-to-understand structure:
+
+- **Header**
+- **Skills**
+- **Education**
+- **Experience**
+  This structure is intentionally semantic and ready for styling in future roadmap projects.
+
+## 🙌 Credits This project follows the **Single-Page CV** challenge from Roadmap.sh:
+
+👉
 [https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
-```
